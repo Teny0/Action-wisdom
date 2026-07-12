@@ -1,0 +1,6 @@
+{
+  "name": "Action Wisdom",
+  "description": "Transform everyday actions, choices, and observations into actionable wisdom, key principles, and real-world skills using structured reflections and the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
